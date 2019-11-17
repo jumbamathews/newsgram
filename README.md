@@ -1,13 +1,13 @@
-# [NewsHighlight](https://our-news.herokuapp.com/)
+# [Newsgram]()
 ## News Highlight is a web application meant to catch up hard workers on the current affairs
 ### May 11th, 2018
-#### By **[Richard Waweru](https://github.com/devwaweru)**
+#### By **[Mathews Jumba](https://github.com/jumbamathews)**
 
 ## Description
 News Highlight is a web application that is meant to catch up hard workers on current affairs happening all over the world.
 The website has the home page, that has a list of all sources of news sorted in categories.
 A user will have to click on `Read More` on a specific source to view artciles on the site
-Click [here](https://our-news.herokuapp.com/) to see the live site
+Click [here]() to see the live site
 
 ## Specifications
 | Behavior            | Input                         | Output                        | 
@@ -38,7 +38,7 @@ No known errors if found drop a message on my profile
     - JavaScript
 
 ## Support and contact details
-Contact me on developer.waweru@gmail.com for any comments, reviews or advice.
+Contact me on developer jumba@jumba.me for any comments, reviews or advice.
 
 ### License
-Copyright (c) **Richard Waweru**
+Copyright (c) **Mathews Jumba**
